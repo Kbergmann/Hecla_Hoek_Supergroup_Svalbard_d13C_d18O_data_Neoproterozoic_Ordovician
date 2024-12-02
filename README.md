@@ -1,5 +1,5 @@
-# Svalbard_Neoproterozoic_Ordovician_d13C_d18O_Results
-Svalbard_Neoproterozoic_Ordovician_d13C_d18O_Results
+# Svalbard_Neoproterozoic_Ordovician_d13C_d18O_results
+Svalbard_Neoproterozoic_Ordovician_d13C_d18O_results
 
 Github repository for d13C and d18O data analyzed from Ny Friesland and Nordaustlandet outcrops of Neoproterozoic, Cambrian, and Ordovician carbonates.
 
@@ -15,7 +15,7 @@ README.md: This file, providing an overview of the project.
 
 Usage Instructions Clone the Repository:
 
-bash Copy code git clone https://github.com/kbergmann/Svalbard_Neoproterozoic_Ordovician_d13C_d18O_Results.git cd Svalbard_Neoproterozoic_Ordovician_d13C_d18O_Results Set Up the Environment:
+bash Copy code git clone https://github.com/kbergmann/Svalbard_Neoproterozoic_Ordovician_d13C_d18O_results.git cd Svalbard_Neoproterozoic_Ordovician_d13C_d18O_results Set Up the Environment:
 
 Install required Python packages using the requirements.txt file: bash Copy code pip install -r requirements.txt Run Analyses:
 
