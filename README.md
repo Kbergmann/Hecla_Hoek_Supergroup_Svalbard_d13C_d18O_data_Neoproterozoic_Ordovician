@@ -19,8 +19,6 @@ bash Copy code git clone https://github.com/kbergmann/Svalbard_Neoproterozoic_Or
 
 Install required Python packages using the requirements.txt file: bash Copy code pip install -r requirements.txt Run Analyses:
 
-Run the scripts in the code/ directory to recreate the figures in the publication. Pre-Public Access This repository is currently private for peer review. If you have access, please refrain from sharing the data or code publicly until the repository is made public and a Zenodo DOI is assigned.
-
 Citation If using this repository, please cite the associated publication:
 
 Bergmann, et al. "Neoproterozoic through Ordovician d13C and d18O Results, Ny Friesland and Nordauslandet, Svalbard" Zenodo, 2024. DOI: 
