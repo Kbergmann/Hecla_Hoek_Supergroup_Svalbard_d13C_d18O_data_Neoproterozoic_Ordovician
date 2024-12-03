@@ -3,7 +3,7 @@ Svalbard_Neoproterozoic_Ordovician_d13C_d18O_results
 
 Github repository for d13C and d18O data analyzed from Ny Friesland and Nordaustlandet outcrops of Neoproterozoic, Cambrian, and Ordovician carbonates.
 
-This repository contains data and supporting materials for Neoproterozoic, Cambrian, and Ordovician carbonate strata in Ny Friesland and Nordaustlandet. This dataset includes investigates sedimentological, geochemical, and isotopic evidence to evaluate the nature and degree of diagenesis in these carbonate rocks, with a focus on understanding primary signals and diagenetic overprints.
+This repository contains data and supporting materials for Neoproterozoic, Cambrian, and Ordovician carbonate strata in Ny Friesland and Nordaustlandet. Samples were collected over three field seasons (2014, 2016, and 2017) and were cut and drilled at MIT before analysis.  Physical samples reside at MIT.  
 
 This repository includes:
 
