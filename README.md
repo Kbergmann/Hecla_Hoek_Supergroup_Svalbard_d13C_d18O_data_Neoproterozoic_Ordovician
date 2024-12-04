@@ -21,6 +21,6 @@ Install required Python packages using the requirements.txt file: bash Copy code
 
 Citation If using this repository, please cite the associated publication:
 
-Bergmann, et al. "Neoproterozoic through Ordovician d13C and d18O Results, Ny Friesland and Nordauslandet, Svalbard" Zenodo, 2024. DOI: 
+Kristin Bergmann, Claire Hayhow, Fran Meyer, Noah Anderson, Julia Wilcots, Tyler Mackey, Adam Jost, Marjorie Cantine, Sam Goldberg, Zahra Essack, Alexie Milikin, Jessica Creveling, Justin Strauss, Galen Halverson, Nick Tosca, & Finnegan, S. (2024). Svalbard Neoproterozoic–Ordovician δ¹³C and δ¹⁸O Isotope Data (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14276720
 
 License This repository is licensed under the MIT License. See LICENSE for details.
