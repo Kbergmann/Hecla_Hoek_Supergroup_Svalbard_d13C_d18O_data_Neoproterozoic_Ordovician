@@ -1,0 +1,80 @@
+{
+  "title": "Svalbard Neoproterozoic–Ordovician δ¹³C and δ¹⁸O Isotope Data",
+  "creators": [
+    {
+      "name": "Kristin Bergmann",
+      "affiliation": "Massachusetts Institute of Technology"
+    },
+    {
+      "name": "Claire Hayhow",
+      "type": "DataCollector",
+      "affiliation": "Massachusetts Institute of Technology"
+    },
+    {
+      "name": "Fran Meyer",
+      "type": "DataCollector",
+      "affiliation": "Massachusetts Institute of Technology, Pennsylvania State University"
+    },
+    {
+      "name": "Noah Anderson",
+      "type": "DataCollector",
+      "affiliation": "Massachusetts Institute of Technology"
+    },
+    {
+      "name": "Julia Wilcots",
+      "type": "DataCollector",
+      "affiliation": "Massachusetts Institute of Technology, Princeton University"
+    },
+    {
+      "name": "Tyler Mackey",
+      "type": "DataCollector",
+      "affiliation": "Massachusetts Institute of Technology, University of New Mexico"
+    },
+    {
+      "name": "Adam Jost",
+      "type": "DataCollector",
+      "affiliation": "Massachusetts Institute of Technology"
+    },
+    {
+      "name": "Marjorie Cantine",
+      "type": "DataCollector",
+      "affiliation": "Massachusetts Institute of Technology, University of Washington"
+    },
+    {
+      "name": "Sam Goldberg",
+      "type": "DataCollector",
+      "affiliation": "Massachusetts Institute of Technology, University of Miami"
+    },
+    {
+    "name": "Zahra Essack",
+    "type": "DataCollector",
+    "affiliation": "Massachusetts Institute of Technology"
+   },
+    {
+      "name": "Alexia Milikin",
+      "affiliation": "Yale University"
+    },
+    {
+      "name": "Jessica Creveling",
+      "affiliation": "Oregon State University"
+    },
+    {
+      "name": "Justin Strauss",
+      "affiliation": "Dartmouth University"
+    },
+    {
+      "name": "Galen Halverson",
+      "affiliation": "McGill University"
+    },
+    {
+      "name": "Nick Tosca",
+      "affiliation": "Cambridge University"
+    },
+  ],
+ ]
+  "description": "This dataset provides δ¹³C and δ¹⁸O isotopic data from carbonate strata of Neoproterozoic through Ordovician age, using samples collected from Ny Friesland and Nordaustlandet, Svalbard in field seasons in 2014, 2016, and 2017.",
+  "license": "MIT",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "keywords": ["Svalbard", "Isotope Data", "Neoproterozoic", "Ordovician"]
+}
