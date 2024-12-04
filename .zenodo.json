@@ -51,7 +51,7 @@
       "affiliation": "Massachusetts Institute of Technology"
     },
     {
-      "name": "Alexia Milikin",
+      "name": "Alexie Milikin",
       "affiliation": "Yale University"
     },
     {
@@ -69,6 +69,10 @@
     {
       "name": "Nick Tosca",
       "affiliation": "Cambridge University"
+    },
+    {
+      "name": "Seth Finnegan",
+      "affiliation": "University of California, Berkeley"
     }
   ],
   "description": "This dataset provides δ¹³C and δ¹⁸O isotopic data from carbonate strata of Neoproterozoic through Ordovician age, using samples collected from Ny Friesland and Nordaustlandet, Svalbard in field seasons in 2014, 2016, and 2017.",
