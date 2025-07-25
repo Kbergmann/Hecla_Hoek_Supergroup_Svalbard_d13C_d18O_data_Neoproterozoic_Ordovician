@@ -18,7 +18,7 @@ bash Copy code git clone https://github.com/kbergmann/Svalbard_Neoproterozoic_Or
 
 Install required Python packages using the requirements.txt file: bash Copy code pip install -r requirements.txt Run Analyses:
 
-Citation If using this repository, please cite the associated publication:
+Citation If using this repository, please cite the Zenodo doi:
 
 Kristin Bergmann, Claire Hayhow, Fran Meyer, Noah Anderson, Julia Wilcots, Tyler Mackey, Adam Jost, Marjorie Cantine, Sam Goldberg, Zahra Essack, Alexie Milikin, Jessica Creveling, Justin Strauss, Galen Halverson, Nick Tosca, & Finnegan, S. (2024). Svalbard Neoproterozoic–Ordovician δ¹³C and δ¹⁸O Isotope Data (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14276720
 
