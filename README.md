@@ -1,5 +1,4 @@
-# Svalbard_Neoproterozoic_Ordovician_d13C_d18O_results
-Svalbard_Neoproterozoic_Ordovician_d13C_d18O_results
+# Hecla_Hoek_Supergroup_Svalbard_d13C_d18O_data_Neoproterozoic_Ordovician
 
 Github repository for d13C and d18O data analyzed from Ny Friesland and Nordaustlandet outcrops of Neoproterozoic, Cambrian, and Ordovician carbonates.
 
